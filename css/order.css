@@ -1,0 +1,56 @@
+.navbar{
+	background-color: #F6F6F6;
+}
+.navbar-brand{
+	color: #AC1112;
+	font-weight: bold;
+	font-family: Century Gothic;
+	font-size : 24px;
+}
+.navbar ul li a{
+	color: #000000;
+	font-family: Century Gothic;
+	font-size: 16px;
+	
+}
+.container-fluid{
+	background-color: #F6F6F6;
+}
+.huruf p{
+  font-family: Century Gothic;
+  font-weight: bold;
+}
+.navbar-nav li a img{
+	margin-right: 40px;
+}
+.btn-up{
+	color: #ffffff;
+	background-color: #AC1112;
+	font-size: 12px;
+	border-radius: 50px;
+	width:50%;
+}
+.btn-in{
+	background-color: #ffffff;
+	font-size: 12px;
+	border-radius: 50px;
+	width:40%;
+}
+.warnabt {
+	background-color: #AC1112;
+}
+.jumbotron{
+	background-image: url(asset/image/image7.jpg);
+	background-size:cover;
+}
+.card-img{
+	width:150px;
+	height:150px;
+}
+.deskripsi{
+	font-size: 10px;
+	word-spacing: 1px;
+}
+.kembar{
+	border-radius:50px;
+}
